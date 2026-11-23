@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg  aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="ico-computer" viewBox="0 0 40 40">
+      <path fill="#23242b" d="M5 3h30v25H5z"/><path fill="#f8f7ec" d="M7 5h26v20H7z"/><path fill="#1c7195" d="M9 7h22v16H9z"/>
+      <path fill="#62ccbf" d="M12 10h16v3H12zM12 15h12v2H12zM12 19h8v2h-8z"/>
+      <path fill="#545b67" d="M16 28h8v5h-8z"/><path fill="#e4ded0" d="M11 33h18v4H11z"/><path fill="#23242b" d="M10 37h20v2H10z"/>
+    </symbol>
+    <symbol id="ico-folder" viewBox="0 0 40 40">
+      <path fill="#202135" d="M3 11h12l4 4h18v20H3z"/><path fill="#fff2b2" d="M5 12h10l4 4h16v4H5z"/><path fill="#e9a92d" d="M5 20h30v13H5z"/>
+      <path fill="#ffe17d" d="M5 20h29l-3 4H5z"/><path fill="#bc7619" d="M5 32h30v2H5z"/>
+    </symbol>
+    <symbol id="ico-chart" viewBox="0 0 40 40">
+      <path fill="#24273c" d="M5 3h30v34H5z"/><path fill="#f4f1e7" d="M7 5h26v30H7z"/><path fill="#a4a6ae" d="M10 29h21v2H10z"/>
+      <path fill="#468ca9" d="M11 23h4v6h-4z"/><path fill="#efb04c" d="M18 16h4v13h-4z"/><path fill="#ce6d87" d="M25 10h4v19h-4z"/>
+      <path fill="#6773bf" d="M10 8h10v3H10z"/>
+    </symbol>
+    <symbol id="ico-gear" viewBox="0 0 40 40">
+      <path fill="#282b3b" d="M16 2h8v5l4 2 4-3 5 6-4 4v8l4 4-5 6-4-3-4 2v5h-8v-5l-4-2-4 3-5-6 4-4v-8l-4-4 5-6 4 3 4-2z"/>
+      <path fill="#b7bec5" d="M17 5h6v5l5 2 4-2 2 3-4 4v6l4 4-2 3-4-2-5 2v5h-6v-5l-5-2-4 2-2-3 4-4v-6l-4-4 2-3 4 2 5-2z"/>
+      <path fill="#3b83ad" d="M15 15h10v10H15z"/><path fill="#f9f7ec" d="M18 18h4v4h-4z"/>
+    </symbol>
+    <symbol id="ico-mail" viewBox="0 0 40 40">
+      <path fill="#25273a" d="M3 9h34v24H3z"/><path fill="#ecebe0" d="M5 11h30v20H5z"/><path fill="#abc9e7" d="M5 11l15 13 15-13v4L20 28 5 15z"/>
+      <path fill="#29364f" d="M5 11h30L20 24z"/><path fill="#f8f8f0" d="M7 13h26L20 22z"/>
+    </symbol>
+    <symbol id="ico-user" viewBox="0 0 40 40">
+      <path fill="#232639" d="M6 30h28v8H6z"/><path fill="#5f78b5" d="M8 30h24v6H8z"/>
+      <path fill="#302c3c" d="M10 7h20v16H10z"/><path fill="#efc29a" d="M13 13h14v13H13z"/><path fill="#302c3c" d="M10 10h20v6h-4v-3H13v5h-3z"/>
+      <path fill="#302c3c" d="M16 20h2v2h-2zM23 20h2v2h-2z"/><path fill="#ab637b" d="M18 25h5v2h-5z"/>
+      <path fill="#f4c9a5" d="M16 27h8v4h-8z"/>
+    </symbol>
+    <symbol id="ico-note" viewBox="0 0 40 40">
+      <path fill="#27263a" d="M8 3h25v34H8z"/><path fill="#fcf5d4" d="M10 5h21v30H10z"/><path fill="#7e89b4" d="M13 11h15v2H13zM13 16h15v2H13zM13 21h12v2H13zM13 26h15v2H13z"/>
+      <path fill="#e09b69" d="M13 6h12v3H13z"/>
+    </symbol>
+    <symbol id="ico-terminal" viewBox="0 0 40 40">
+      <path fill="#27273a" d="M3 5h34v30H3z"/><path fill="#171e31" d="M5 7h30v26H5z"/><path fill="#67d9b6" d="M9 12h4v3H9zM13 15h4v3h-4zM9 21h16v3H9zM9 27h9v2H9z"/>
+      <path fill="#e4a75c" d="M27 27h3v3h-3z"/>
+    </symbol>
+    <symbol id="ico-star" viewBox="0 0 40 40">
+      <path fill="#2f3246" d="M17 3h6l3 11 11 3v6l-11 3-3 11h-6l-3-11-11-3v-6l11-3z"/>
+      <path fill="#ffcf70" d="M18 5h4l3 11 10 2v4l-10 3-3 10h-4l-3-10-10-3v-4l10-2z"/>
+      <path fill="#fff2a3" d="M18 11h4v18h-4zM11 18h18v4H11z"/>
+    </symbol>
+  </svg>

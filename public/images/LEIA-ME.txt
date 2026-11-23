@@ -1,0 +1,26 @@
+HELPFY - capturas usadas na galeria do portfólio
+
+Pasta: public/images/helpfy/
+Configuração da ordem e legendas: src/content/site.js (PROJECTS > helpfy > screenshots)
+
+Arquivos na ordem exibida:
+01. 01-boards.png — Visão geral dos Boards e acompanhamento de tarefas
+    original: Captura de tela 2026-11-23 145831.png
+02. 02-kanban.png — Quadro Kanban com fases, prioridades e prazos
+    original: Captura de tela 2026-11-23 150339.png
+03. 03-detalhes-card.png — Detalhes do card, campos e movimentação entre fases
+    original: Captura de tela 2026-11-23 150349.png
+04. 04-configuracao-fases.png — Configuração de fases, campos e regras do fluxo
+    original: Captura de tela 2026-11-23 145413(1).png
+05. 05-agentes-ia.png — Área de configuração dos agentes de IA
+    original: Captura de tela 2026-11-23 150848.png
+06. 06-colecoes.png — Coleções de dados reutilizáveis
+    original: Captura de tela 2026-11-23 145638.png
+07. 07-exportacao-excel.png — Exportação de cards para Excel com escolha de campos
+    original: Captura de tela 2026-11-23 145432(1).png
+08. 08-menu-lateral.png — Menu de navegação: Boards, Databases, APIs e Administração
+    original: Captura de tela 2026-11-23 145323(1).png
+
+Para reorganizar, altere a ordem dos itens em screenshots no arquivo site.js.
+Para substituir uma foto, mantenha o nome e coloque outra imagem PNG no lugar.
+Antes de publicar, revise os prints para ocultar qualquer dado confidencial.
